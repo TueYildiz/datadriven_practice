@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/stormy_carp_7384), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [User Age Ranking](./practice/sql/user-age-ranking) | SQL | Easy | 2026-11-01 |
 | [Non-Trivial Fatal Errors](./practice/sql/non-trivial-fatal-errors) | SQL | Medium | 2026-11-01 |
 | [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-11-01 |
 | [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Medium | 2026-11-01 |
