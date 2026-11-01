@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/stormy_carp_7384), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-11-01 |
 | [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Medium | 2026-11-01 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-11-01 |
 
