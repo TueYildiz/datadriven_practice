@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/stormy_carp_7384), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-11-07 |
 | [Active Token Owners in 2026](./practice/sql/active-token-owners-in-year) | SQL | Easy | 2026-11-07 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-11-07 |
 | [Customer Full Name Concat](./practice/sql/customer-full-name-concat) | SQL | Easy | 2026-11-01 |
