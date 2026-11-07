@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/stormy_carp_7384), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-11-07 |
 | [Customer Full Name Concat](./practice/sql/customer-full-name-concat) | SQL | Easy | 2026-11-01 |
 | [User Age Ranking](./practice/sql/user-age-ranking) | SQL | Easy | 2026-11-01 |
 | [Non-Trivial Fatal Errors](./practice/sql/non-trivial-fatal-errors) | SQL | Medium | 2026-11-01 |
